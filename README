@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1501
+
+This script simply rotates around a preconfigured set of statusline/ruler formats. Some times depending on the type of editing being done it is useful to have different status lines.
+
+See the comments in the file to see how to setup the status lines. Two status lines are already provided. Can configure in the script or in the .vimrc file.
+
+<Leader>r is the default mapping to effect a single rotation. To cycle through all statuslines/rulers keep using <Leader>r.
